@@ -1,3 +1,5 @@
 # Ignore all files used to compile on VSCode
 Photoresistance\ Practice/.vscode
 Photoresistance\ Practice/build
+Motion\ Sensor\ Practice/.vscode
+Motion\ Sensor\ Practice/build
